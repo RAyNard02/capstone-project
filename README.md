@@ -1,4 +1,4 @@
-KodeGo Capstone Project
+Project Petshop
 
 Fuzzy JARR
 
